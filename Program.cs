@@ -170,7 +170,7 @@ class Program
             if (!found)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                TypingEffect("I didn't quite understand that. Try asking about 'phishing' or 'passwords'.");
+                TypingEffect("I didn't quite understand that. Please try asking about topics like phishing, passwords, or safe browsing.");
                 Console.ResetColor();
             }
         }
