@@ -16,6 +16,7 @@ class Program
         DisplayAsciiArt();
 
         // Start chatbot interaction
+        // Initiates the chatbot interaction with the user
         StartChatbot();
         ChatbotResponses();
     }
