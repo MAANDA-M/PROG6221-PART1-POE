@@ -166,7 +166,7 @@ class Program
                     break;
                 }
             }
-
+            //Display a helpful message when the chatbot does not recognize the question
             if (!found)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
