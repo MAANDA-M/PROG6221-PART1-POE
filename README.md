@@ -32,4 +32,4 @@ The program starts by displaying a greeting message. It then waits for user inpu
 - https://github.com/MAANDA-M/PROG6221-PART1-POE
 
 ## Video Demonstration
-- YouTube link
+- https://youtu.be/2XBD6HKtQaw
